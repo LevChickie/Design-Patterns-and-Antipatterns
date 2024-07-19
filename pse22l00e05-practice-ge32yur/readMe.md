@@ -1,0 +1,1 @@
+Adapter Pattern: Thermometers with Celsius, Fahrenheit and Kelvin
