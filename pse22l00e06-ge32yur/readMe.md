@@ -1,0 +1,1 @@
+Observer Pattern with different GUIs for different Thermometer metrics.
